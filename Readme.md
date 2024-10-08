@@ -25,3 +25,5 @@
 ✔️ Habilidades\
 ✔️ Currículo\
 ✔️ Contatos Info
+
+✔️Me siga!
